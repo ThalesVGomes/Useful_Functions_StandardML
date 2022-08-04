@@ -1,2 +1,2 @@
-# auto-ml-functions
-Some functions I created to automate standard Machine Learning problems (using Sklearn) - especially the classification ones
+# Useful Functions to standard (no Deep Learning) problems.
+The notebook is not formated, it's just a personal backup
